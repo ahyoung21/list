@@ -8,6 +8,12 @@ react.js react-redux socket.io node.js
 - 페이지는 채팅 목록, 채팅방으로 이루어져 있습니다.
 - client 폴더 안에서 npm install 후 npm run start 하면 실행하면 됩니다.
 
+## 접근 가능한 URL
+
+- https://ahyoung21.github.io/list/
+
+## 폴더 트리
+
 ```
 ├── App.js
 ├── common
