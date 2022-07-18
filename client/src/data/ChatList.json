@@ -1,0 +1,81 @@
+[
+  {
+    "seq": 1,
+    "userId": "장만월 사장님",
+    "thumbNailPath": "/assets/sample/img_sample04@3x.png",
+    "isRead": "N",
+    "chatNum": "1",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-07-16 22:05:29"
+  },
+  {
+    "seq": 2,
+    "userId": "오지호",
+    "thumbNailPath": "/assets/sample/img_sample05@3x.png",
+    "isRead": "Y",
+    "lastChat": "오시는 길에 와인 몇병만 사다주세요.",
+    "lastChatDateTime": "2022-07-11 12:05:29"
+  },
+  {
+    "seq": 3,
+    "userId": "신정근 바텐더",
+    "thumbNailPath": "/assets/sample/img_sample06@3x.png",
+    "isRead": "N",
+    "chatNum": "99",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-07-13 22:05:29"
+  },
+  {
+    "seq": 4,
+    "userId": "이미라 의사",
+    "thumbNailPath": "/assets/sample/img_sample07@3x.png",
+    "isRead": "Y",
+    "lastChat": "휴가 잘 보내고 계신가요? 다름이 아니라 휴가 잘 보내고 계신가요? 다름이 아니라 휴가 잘 보내고 계신가요? 다름이 아니라 휴가 잘 보내고 계신가요? 다름이 아니라",
+    "lastChatDateTime": "2022-07-01 02:05:00"
+  },
+  {
+    "seq": 5,
+    "userId": "구찬성",
+    "thumbNailPath": "/assets/sample/img_sample08@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  },
+  {
+    "seq": 6,
+    "userId": "김유나 인턴",
+    "thumbNailPath": "/assets/sample/img_sample09@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  },
+  {
+    "seq": 7,
+    "userId": "구현모",
+    "thumbNailPath": "/assets/sample/img_sample10@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  },
+  {
+    "seq": 8,
+    "userId": "유아영",
+    "thumbNailPath": "/assets/sample/img_sample11@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  },
+  {
+    "seq": 9,
+    "userId": "카카오 스타일",
+    "thumbNailPath": "/assets/sample/img_sample01@3x.png",
+    "isRead": "N",
+    "chatNum": "5",
+    "lastChat": "어딘데 출근 안하니, 죽고싶니?",
+    "lastChatDateTime": "2022-02-13 11:11:11"
+  }
+]
